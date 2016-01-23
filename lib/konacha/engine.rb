@@ -11,7 +11,7 @@ module Konacha
         use Rack::ShowExceptions
 
         map app.config.assets.prefix do
-          run app.assets
+          run app.config.assets
         end
 
         map "/" do
