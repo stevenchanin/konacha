@@ -1,12 +1,12 @@
 GIT
   remote: https://github.com/rails/sprockets-rails.git
-  revision: 74fba9fa01ba35a53458ce7e3f44bc6fa47bda5f
-  ref: 74fba9fa01ba35a53458ce7e3f44bc6fa47bda5f
+  revision: d7c7ee19991c565eb77ee143be2d009ba4472122
+  ref: d7c7ee19991c565eb77ee143be2d009ba4472122
   specs:
-    sprockets-rails (2.3.3)
-      actionpack (>= 3.0)
-      activesupport (>= 3.0)
-      sprockets (>= 2.8, < 4.0)
+    sprockets-rails (3.0.0.beta1)
+      actionpack (>= 4.0)
+      activesupport (>= 4.0)
+      sprockets (>= 3.0.0.beta, < 4.0)
 
 PATH
   remote: .
